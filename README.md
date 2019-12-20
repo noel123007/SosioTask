@@ -1,2 +1,3 @@
 # SosioTask
- Intern Task for Sosio
+Work can be viewed here
+ https://sosiotask.herokuapp.com/
